@@ -41,6 +41,7 @@
 * 附件
   * [常用縮寫](/abbreviation.md)
   * 詞彙表
+    * [數字、A](/glossaryNumA.md)
 
 
 
