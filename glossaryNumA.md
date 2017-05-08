@@ -1,65 +1,68 @@
-3D QSAR   
-QSAR studies which relate the biological activities of a series of compounds to their steric and electrostatic fi elds determined by molecular modelling soft ware.
+3D QSAR  
+QSAR studies which relate the biological  
+ activities of a series of compounds to their steric  
+ and electrostatic fi elds determined by molecular  
+ modelling soft ware.
 
-Abzyme   
+Abzyme  
 An antibody with catalytic properties.
 
-ACE   
-inhibitors Drugs which inhibit the angiotensin converting enzyme. Inhibition prevents the synthesis of a powerful vasoconstrictor and so ACE inhibitors are used as antihypertensive agents.
+ACE  
+inhibitors Drugs which inhibit the angiotensin converting  
+ enzyme. Inhibition prevents the synthesis of a powerful vasoconstrictor and so ACE inhibitors  
+ are used as antihypertensive agents.
 
-Acetylcholine A   
-neurotransmitter that is present in both the peripheral and central nervous systems. Acetylcholinesterase An enzyme that hydrolyses the neurotransmitter acetylcholine. Acquired resistance Resistance that a microorganism acquires to a drug to which it was previously susceptible.
+Acetylcholine A  
+neurotransmitter that is present in  
+ both the peripheral and central nervous systems.  
+ Acetylcholinesterase An enzyme that hydrolyses the  
+ neurotransmitter acetylcholine.  
+ Acquired resistance Resistance that a microorganism  
+ acquires to a drug to which it was previously  
+ susceptible.
 
-Acromegaly   
-A long-term condition where the body is producing too much growth hormone. It results in increased tissue growth.
+Acromegaly  
+A long-term condition where the body is  
+ producing too much growth hormone. It results in  
+ increased tissue growth.
 
-Action potential   
-Refers to the reversal in membrane potential as a signal travels along the axon of a nerve.
+Action potential  
+Refers to the reversal in  
+ membrane potential as a signal travels along the  
+ axon of a nerve.
 
-Activation energy   
-The energy required for a reaction to reach its transition state.
+Activation energy  
+The energy required for a reaction  
+ to reach its transition state.
 
-Active conformation Th e conformation adopted by a
+Active conformation   
+Th e conformation adopted by a compound when it binds to its target binding site.
 
-compound when it binds to its target binding site.
+Active principle   
+Th e single chemical in a mixture of compounds which is chiefl y responsible for that mixture’s biological activity.
 
-Active principle Th e single chemical in a mixture
+Active site   
+The binding site of an enzyme where a reaction is catalysed by the enzyme.
 
-of compounds which is chiefl y responsible for that
+ADAPT   
+Antibody-directed abzyme prodrug therapy.
 
-mixture’s biological activity.
+Addiction   
+Addiction can be defi ned as a habitual form of behaviour. It need not be harmful. For example, one can be addicted to eating chocolate or watching television without suff ering more than a bad case of toothache or a surplus of soap operas.
 
-Active site Th e binding site of an enzyme where a
+Adenoviruses   
+Icosahedral-shaped viruses containing double-stranded DNA. Th ey are responsible for respiratory infections.
 
-reaction is catalysed by the enzyme.
+ADEPT   
+Antibody-directed enzyme prodrug therapy.
 
-ADAPT Antibody-directed abzyme prodrug therapy.
+ADME Refers to drug absorption, drug distribution, drug metabolism, and drug excretion.
 
-Addiction Addiction can be defi ned as a habitual form
+Adrenal medulla   
+A gland that produces adrenaline.
 
-of behaviour. It need not be harmful. For example,
-
-one can be addicted to eating chocolate or watching
-
-television without suff ering more than a bad case of
-
-toothache or a surplus of soap operas.
-
-Adenoviruses Icosahedral-shaped viruses containing
-
-double-stranded DNA. Th ey are responsible for
-
-respiratory infections.
-
-ADEPT Antibody-directed enzyme prodrug therapy.
-
-ADME Refers to drug absorption, drug distribution,
-
-drug metabolism, and drug excretion.
-
-Adrenal medulla A gland that produces adrenaline.
-
-Adrenaline A catecholamine that acts as a hormone
+Adrenaline   
+A catecholamine that acts as a hormone
 
 and neurotransmitter, and which plays a crucial
 
