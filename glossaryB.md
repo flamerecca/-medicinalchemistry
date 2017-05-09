@@ -1,138 +1,86 @@
-Bacilli Bacterial cells that are rod shaped.
+Bacilli   
+Bacterial cells that are rod shaped.
 
-Bacteriorhodopsin A protein present in Archaea
+Bacteriorhodopsin   
+A protein present in Archaea microorganisms that captures light energy and acts as a proton pump to pump protons across the cell membrane.
 
-microorganisms that captures light energy and acts
+Bacteriostatic   
+Bacteriostatic drugs inhibit the growth and multiplication of bacteria, but do not directly kill them.
 
-as a proton pump to pump protons across the cell
+Bactericidal   
+Bactericidal drugs actively kill bacterial cells.
 
-membrane.
+Bacteriophage   
+A virus that invades bacterial cells.
 
-Bacteriostatic Bacteriostatic drugs inhibit the growth
+Bad   
+A protein that promotes apoptosis.
 
-and multiplication of bacteria, but do not directly kill
+Barbiturates   
+A series of synthetic compounds with sedative properties.
 
-them.
+Bax   
+A protein that promotes apoptosis.
 
-Bactericidal Bactericidal drugs actively kill bacterial cells.
+Bcl-2 and Bcl-X   
+Proteins that suppress apoptosis.
 
-Bacteriophage A virus that invades bacterial cells.
+Bcr-Abl protein   
+A protein that is formed as a result of a chromosomal defect called the Philadelphia chromosome. It is related to the disease known as chronic myelogenous leukemia.
 
-Bad A protein that promotes apoptosis.
+Benign cancer or tumour   
+A localized tumour that is not life threatening.
 
-Barbiturates A series of synthetic compounds with
+Benign prostatic hyperplasia   
+The term for an enlarged prostate, resulting in diffi culty in passing urine.
 
-sedative properties.
+Benzodiazepines   
+A structural class of compounds that are used as hypnotics, anxiolytics, sedatives, anticonvulsants, and muscle relaxants.
 
-Bax A protein that promotes apoptosis.
+β-Blockers   
+Compounds that block or antagonize
 
-Bcl-2 and Bcl-X Proteins that suppress apoptosis.
-
-Bcr-Abl protein A protein that is formed as a result
-
-of a chromosomal defect called the Philadelphia
-
-chromosome. It is related to the disease known as
-
-chronic myelogenous leukemia.
-
-Benign cancer or tumour A localized tumour that is
-
-not life threatening.
-
-Benign prostatic hyperplasia Th e term for an enlarged
-
-prostate, resulting in diffi culty in passing urine.
-
-Benzodiazepines A structural class of compounds
-
-that are used as hypnotics, anxiolytics, sedatives,
-
-anticonvulsants, and muscle relaxants.
-
-β-Blockers Compounds that block or antagonize
-
-β-adrenoceptors. Particularly useful in cardiovascular
-
-medicine.
+β-adrenoceptors.   
+Particularly useful in cardiovascular medicine.
 
 Beta-lactamases see lactamases.
 
-β-Lactams Structures that contain a four-membered
+β-Lactams   
+Structures that contain a four-membered β-lactam ring and are commonly used as antibacterial agents.
 
-β-lactam ring and are commonly used as antibacterial
+Bile duct   
+A duct leading from the liver to the intestines. Some drugs and drug metabolites are excreted through the bile duct, but can be reabsorbed from the intestines.
 
-agents.
+Binding region   
+A region within a binding site that is capable of a specifi c intermolecular interaction with drug or endogenous ligand.
 
-Bile duct A duct leading from the liver to the
+Binding site   
+The location where an endogenous molecule or drug binds to a macromolecule. Normally a hollow or cleft in the surface of the macromolecule.
 
-intestines. Some drugs and drug metabolites are
+Bioavailability   
+Refers to the fraction of drug that is available in the blood supply following administration.
 
-excreted through the bile duct, but can be reabsorbed
+Bioequivalence studies   
+Studies carried out to ensure that the bioavailability of a drug remains the same should there be any alteration to the manufacture or formulation of the drug.
 
-from the intestines.
+Bioisostere   
+A chemical group which can replace another chemical group without adversely aff ecting the desired activity of a drug.
 
-Binding region A region within a binding site that is
+Bioterrorism   
+The use of toxic infectious agents by terrorist groups.
 
-capable of a specifi c intermolecular interaction with
+Bleomycins   
+A group of naturally occurring glycoproteins used as anticancer agents.
 
-drug or endogenous ligand.
+Blood–brain barrier   
+Blood vessels in the brain are less porous than blood vessels in the periphery. They also have a fatty coating. Drugs entering the brain have to be lipophilic in order to cross this barrier.
 
-Binding site Th e location where an endogenous
+Boc   
+A shorthand term for the protecting group t-butyloxycarbonyl.
 
-molecule or drug binds to a macromolecule.
+Bromodomain   
+A binding region in one protein that is capable of binding an acetylated lysine residue of another protein to allow protein–protein interactions.
 
-Normally a hollow or cleft in the surface of the
-
-macromolecule.
-
-Bioavailability Refers to the fraction of drug
-
-that is available in the blood supply following
-
-administration.
-
-Bioequivalence studies Studies carried out to ensure
-
-that the bioavailability of a drug remains the same
-
-should there be any alteration to the manufacture or
-
-formulation of the drug.
-
-Bioisostere A chemical group which can replace
-
-another chemical group without adversely aff ecting
-
-the desired activity of a drug.
-
-Bioterrorism Th e use of toxic infectious agents by
-
-terrorist groups.
-
-Bleomycins A group of naturally occurring
-
-glycoproteins used as anticancer agents.
-
-Blood–brain barrier Blood vessels in the brain are less
-
-porous than blood vessels in the periphery. Th ey also
-
-have a fatty coating. Drugs entering the brain have to
-
-be lipophilic in order to cross this barrier.
-
-Boc A shorthand term for the protecting group
-
-t-butyloxycarbonyl.
-
-Bromodomain A binding region in one protein that
-
-is capable of binding an acetylated lysine residue of
-
-another protein to allow protein–protein interactions.
-
-Bronchodilator An agent which dilates the airways
-
-and can combat asthma.
+Bronchodilator   
+An agent which dilates the airways and can combat asthma.
 
