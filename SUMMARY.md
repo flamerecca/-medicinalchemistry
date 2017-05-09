@@ -38,10 +38,11 @@
   * 抗潰瘍藥
   * 案例研究：類固醇抗炎藥
   * 案例研究：目前抗抑鬱藥研究
-* 附件
+* [附件](fu-jian.md)
   * [常用縮寫](/abbreviation.md)
-  * 詞彙表
+  * [詞彙表](ci-hui-biao.md)
     * [數字、A](/glossaryNumA.md)
+    * [B](/glossaryB.md)
 
 
 
