@@ -35,80 +35,62 @@ Activation energy
 The energy required for a reaction  
  to reach its transition state.
 
-Active conformation   
+Active conformation  
 Th e conformation adopted by a compound when it binds to its target binding site.
 
-Active principle   
+Active principle  
 Th e single chemical in a mixture of compounds which is chiefl y responsible for that mixture’s biological activity.
 
-Active site   
+Active site  
 The binding site of an enzyme where a reaction is catalysed by the enzyme.
 
-ADAPT   
+ADAPT  
 Antibody-directed abzyme prodrug therapy.
 
-Addiction   
+Addiction  
 Addiction can be defi ned as a habitual form of behaviour. It need not be harmful. For example, one can be addicted to eating chocolate or watching television without suff ering more than a bad case of toothache or a surplus of soap operas.
 
-Adenoviruses   
+Adenoviruses  
 Icosahedral-shaped viruses containing double-stranded DNA. Th ey are responsible for respiratory infections.
 
-ADEPT   
+ADEPT  
 Antibody-directed enzyme prodrug therapy.
 
 ADME Refers to drug absorption, drug distribution, drug metabolism, and drug excretion.
 
-Adrenal medulla   
+Adrenal medulla  
 A gland that produces adrenaline.
 
-Adrenaline   
-A catecholamine that acts as a hormone
+Adrenaline  
+A catecholamine that acts as a hormone and neurotransmitter, and which plays a crucial part in the ‘fi ght or fl ight’ response. It is also called epinephrine.
 
-and neurotransmitter, and which plays a crucial
+Adrenergics   
+Refers to compounds that interact with the receptors targeted by adrenaline and noradrenaline.
 
-part in the ‘fi ght or fl ight’ response. It is also called
+Adrenoceptors   
+Receptors that are activated by adrenaline and noradrenaline.
 
-epinephrine.
+Adrenocorticoids   
+Those steroids released from the adrenal cortex of the adrenal gland.
 
-Adrenergics Refers to compounds that interact
+Adsorption   
+Refers to the situation where a molecule or a structure adheres to a surface. In virology it refers to a virus binding to the surface of a host cell.
 
-with the receptors targeted by adrenaline and
-
-noradrenaline.
-
-Adrenoceptors Receptors that are activated by
-
-adrenaline and noradrenaline.
-
-Adrenocorticoids Th ose steroids released from the
-
-adrenal cortex of the adrenal gland.
-
-Adsorption Refers to the situation where a molecule or
-
-a structure adheres to a surface. In virology it refers to
-
-a virus binding to the surface of a host cell.
-
-Aerobic bacteria Bacteria that grow in the presence of
-
-oxygen.
+Aerobic bacteria   
+Bacteria that grow in the presence of oxygen.
 
 Affi nity A measure of how strongly a ligand binds to its
 
 target binding site.
 
-Affi nity constant A measure of the bonding affi nity
+Affinity constant   
+A measure of the bonding affinity between two molecules at equilibrium. It is the reverse of the dissociation constant.
 
-between two molecules at equilibrium. It is the
+Affinity screening   
+A method of screening compounds based on their binding affinity to a target.
 
-reverse of the dissociation constant.
-
-Affi nity screening A method of screening compounds
-
-based on their binding affi nity to a target.
-
-Agonist A drug that produces the same response at a
+Agonist   
+A drug that produces the same response at a
 
 receptor as the natural messenger.
 
@@ -422,21 +404,12 @@ selectivity for a particular enantiomer or diastereomer
 
 of an asymmetric compound.
 
-Attention defi cit hyperactivity disorder A disorder
+Attention deficit hyperactivity disorder   
+A disorder associated with children—the name speaks for itself. AUC see Area under the plasma drug concentration curve.
 
-associated with children—the name speaks for itself.
+Autonomic motor nervous system   
+Nerves carrying messages from the central nervous system to smooth muscle, cardiac muscle, and the adrenal medulla.
 
-AUC see Area under the plasma drug concentration
-
-curve.
-
-Autonomic motor nervous system Nerves carrying
-
-messages from the central nervous system to smooth
-
-muscle, cardiac muscle, and the adrenal medulla.
-
-Autoreceptors Presynaptic receptors that are involved
-
-in a feedback control whereby the ligand released by the presynaptic neuron binds and inhibits further ligand release.
+Autoreceptors   
+Presynaptic receptors that are involved in a feedback control whereby the ligand released by the presynaptic neuron binds and inhibits further ligand release.
 
